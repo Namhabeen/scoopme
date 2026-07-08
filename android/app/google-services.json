@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "162706179158",
+    "project_id": "scoopme-ec6eb",
+    "storage_bucket": "scoopme-ec6eb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162706179158:android:107ad2fb302ee4954fa7f7",
+        "android_client_info": {
+          "package_name": "com.habing.scoopme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlPYToQLF9jpOwKUinaxKmZpdg9vzp8A8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

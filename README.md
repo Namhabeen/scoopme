@@ -11,7 +11,8 @@
 ## What is SCOOPME?
 
 SCOOPME is a lifestyle app that lets you collect colors from your everyday life.
-Simply take a photo of anything around you — the app automatically analyzes the dominant color and adds it to your personal color collection.
+Simply take a photo of anything around you — the app automatically analyzes the dominant color
+and adds it to your personal color collection.
 You can also create shareable image cards with your collected items, perfect for Instagram stories.
 
 **Core features (MVP)**
@@ -27,33 +28,28 @@ You can also create shareable image cards with your collected items, perfect for
 - Flutter (Dart)
 - Firebase (Firestore, Auth, Storage)
 - Google Cloud Vision API
-- Riverpod (state management)
-- go_router (routing)
+- Riverpod · go_router
 
 ---
 
 ## Project Structure
 
-\```
 lib/
 ├── core/
 ├── data/
 ├── presentation/
 └── main.dart
-\```
 
 ---
 
 ## Development
 
-\```bash
 flutter pub get
 flutter run
 flutter analyze
-\```
 
 ---
 
 ## License
 
-Private repository — all rights reserved.
+MIT License
